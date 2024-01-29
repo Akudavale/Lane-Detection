@@ -1,4 +1,4 @@
-Some parts of this code were inspired by
+Some parts of this code were inspired by 2016-2019 Udacity, Inc course.
 
 1. Develop a comprehensive pipeline for lane line detection in image
 2. Create a customized edge detection algorithm to identify edges in grayscale images.
